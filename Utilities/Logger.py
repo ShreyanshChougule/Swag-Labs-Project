@@ -8,7 +8,7 @@ class LogGenerator:
     def getLog():
         loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(loggerName)
-        File = logging.FileHandler("C:\\Users\\Tejas\\Swag Labs\\LogsAll_logs.log")
+        File = logging.FileHandler("C:\\Users\\Tejas\\Swag Labs\\Logs\\All_logs.log")
         Formatter = logging.Formatter("%(asctime)s : %(levelname)s : %(name)s : %(funcName)s : %(lineno)s : %(message)s")
         File.setFormatter(Formatter)
         logger.addHandler(File)
