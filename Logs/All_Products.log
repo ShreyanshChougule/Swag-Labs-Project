@@ -1,0 +1,33 @@
+2023-06-26 14:47:25,742 : INFO : Test_Verify_Products_List : test_verify_product_list : 13 : Verify Products List Test is Started
+2023-06-26 14:47:25,742 : INFO : Test_Verify_Products_List : test_verify_product_list : 15 : Invoking Browser And Opening URL
+2023-06-26 14:47:26,412 : INFO : Test_Verify_Products_List : test_verify_product_list : 23 : Entering Login Credential and Click on LoginButton
+2023-06-26 14:47:28,431 : INFO : Test_Verify_Products_List : test_verify_product_list : 27 : Total Products in Page is: 6
+2023-06-26 14:47:42,307 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:47:42,307 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:47:42,307 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:47:42,307 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:47:42,307 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:47:42,307 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:47:42,416 : INFO : Test_Verify_Products_List : test_verify_product_list : 31 : Verify Products List Test is Completed
+2023-06-26 14:56:23,096 : INFO : Test_Verify_Products_List : test_verify_product_list : 13 : Verify Products List Test is Started
+2023-06-26 14:56:23,097 : INFO : Test_Verify_Products_List : test_verify_product_list : 15 : Invoking Browser And Opening URL
+2023-06-26 14:56:23,774 : INFO : Test_Verify_Products_List : test_verify_product_list : 23 : Entering Login Credential and Click on Login Button
+2023-06-26 14:56:25,815 : INFO : Test_Verify_Products_List : test_verify_product_list : 27 : Total Products in Page are: 6
+2023-06-26 14:56:39,616 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:56:39,616 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:56:39,617 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:56:39,617 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:56:39,618 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:56:39,618 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 14:56:39,674 : INFO : Test_Verify_Products_List : test_verify_product_list : 31 : Verify Products List Test is Completed
+2023-06-26 15:00:01,613 : INFO : Test_Verify_Products_List : test_verify_product_list : 13 : Verify Products List Test is Started
+2023-06-26 15:00:01,613 : INFO : Test_Verify_Products_List : test_verify_product_list : 15 : Invoking Browser And Opening URL
+2023-06-26 15:00:02,298 : INFO : Test_Verify_Products_List : test_verify_product_list : 23 : Entering Login Credential and Click on Login Button
+2023-06-26 15:00:04,330 : INFO : Test_Verify_Products_List : test_verify_product_list : 27 : Total Products in Page are: 6
+2023-06-26 15:00:18,224 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 15:00:18,224 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 15:00:18,224 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 15:00:18,224 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 15:00:18,224 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 15:00:18,224 : INFO : Test_Verify_Products_List : test_verify_product_list : 29 : Screenshot of the page is Captured Successfull
+2023-06-26 15:00:18,285 : INFO : Test_Verify_Products_List : test_verify_product_list : 31 : Verify Products List Test is Completed

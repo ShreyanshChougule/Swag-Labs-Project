@@ -1,0 +1,27 @@
+2023-06-26 15:41:16,326 : INFO : Test_Order : test_order : 13 : Placing an Order Test is Started
+2023-06-26 15:41:16,379 : INFO : Test_Order : test_order : 15 : Invoking Browser And Opening URL
+2023-06-26 15:41:22,854 : INFO : Test_Order : test_order : 21 : Entering Login Credential and Click on Login Button
+2023-06-26 15:43:33,333 : INFO : Test_Order : test_order : 13 : Placing an Order Test is Started
+2023-06-26 15:43:33,333 : INFO : Test_Order : test_order : 15 : Invoking Browser And Opening URL
+2023-06-26 15:43:34,234 : INFO : Test_Order : test_order : 21 : Entering Login Credential and Click on Login Button
+2023-06-26 15:46:51,734 : INFO : Test_Order : test_order : 13 : Placing an Order Test is Started
+2023-06-26 15:46:51,735 : INFO : Test_Order : test_order : 15 : Invoking Browser And Opening URL
+2023-06-26 15:46:52,750 : INFO : Test_Order : test_order : 21 : Entering Login Credential and Click on Login Button
+2023-06-26 15:48:12,927 : INFO : Test_Order : test_order : 13 : Placing an Order Test is Started
+2023-06-26 15:48:12,927 : INFO : Test_Order : test_order : 15 : Invoking Browser And Opening URL
+2023-06-26 15:48:13,585 : INFO : Test_Order : test_order : 21 : Entering Login Credential and Click on Login Button
+2023-06-26 16:15:48,524 : INFO : Test_Order : test_order : 13 : Placing an Order Test is Started
+2023-06-26 16:15:48,540 : INFO : Test_Order : test_order : 15 : Invoking Browser And Opening URL
+2023-06-26 16:15:49,421 : INFO : Test_Order : test_order : 21 : Entering Login Credential and Click on Login Button
+2023-06-26 16:16:15,364 : INFO : Test_Order : test_order : 13 : Placing an Order Test is Started
+2023-06-26 16:16:15,365 : INFO : Test_Order : test_order : 15 : Invoking Browser And Opening URL
+2023-06-26 16:16:16,000 : INFO : Test_Order : test_order : 21 : Entering Login Credential and Click on Login Button
+2023-06-26 16:32:35,544 : INFO : Test_Order : test_order : 13 : Placing an Order Test is Started
+2023-06-26 16:32:35,544 : INFO : Test_Order : test_order : 15 : Invoking Browser And Opening URL
+2023-06-26 16:32:36,183 : INFO : Test_Order : test_order : 21 : Entering Login Credential and Click on Login Button
+2023-06-26 16:32:38,280 : INFO : Test_Order : test_order : 26 : Product or Itam Added to Cart
+2023-06-26 16:32:38,465 : INFO : Test_Order : test_order : 29 : Product Vefication is Done and Click On Checkout
+2023-06-26 16:32:38,789 : INFO : Test_Order : test_order : 31 : Entering Valid Credential
+2023-06-26 16:32:38,890 : INFO : Test_Order : test_order : 33 : Click On Continue
+2023-06-26 16:32:41,032 : INFO : Test_Order : test_order : 37 : Thank you for your order
+2023-06-26 16:32:41,157 : INFO : Test_Order : test_order : 40 : Placing an Order Test is Completed
